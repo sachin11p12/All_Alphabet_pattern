@@ -1,0 +1,1 @@
+# All_Alphabet_pattern
