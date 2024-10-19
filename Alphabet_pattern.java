@@ -131,6 +131,11 @@ public class Alphabet_pattern {
             System.out.println();
         }
         /*
+         * * * * *
+             *
+             *
+             *
+         * * * * *
         
         */
     }
