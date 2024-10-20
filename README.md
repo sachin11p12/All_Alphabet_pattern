@@ -10,7 +10,7 @@ Welcome to the **All_Alphabet_Pattern** repository! In this repository, I share 
 - **Day 4**: Patterns for E & F
 - **Day 5**: Patterns for G & H
 - **Day 6**: Patterns for I & J
-- **Day 7**: Patterns for K
+- **Day 7**: Patterns for K & L
 
 ## Purpose
 This repository is dedicated to showcasing a new alphabet pattern each day, providing a creative outlet for both beginners and advanced users. Each pattern is designed to be visually appealing and educational.
